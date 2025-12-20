@@ -1,2 +1,2 @@
-65
+66
 https://github.com/cherryymerryy/dexExteraGramPlugins/raw/refs/heads/main/classes.dex
